@@ -1,0 +1,24 @@
+{
+  "name": "@nkduy/launch-editor-middleware",
+  "version": "2.2.1",
+  "description": "express middleware for launching editor",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khanhduy1407/launch-editor.git"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "editor"
+  ],
+  "author": "NKDuy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khanhduy1407/launch-editor/issues"
+  },
+  "homepage": "https://github.com/khanhduy1407/launch-editor#readme",
+  "dependencies": {
+    "launch-editor": "^2.2.1"
+  }
+}
